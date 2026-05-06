@@ -19,6 +19,12 @@ export default function CognitiveBiases() {
             <div className="highlight-box">
               <p style={{ margin: 0 }}>针对找工作，我们需要切换另外一种提高方法，而非仅仅提升工作能力。</p>
             </div>
+            <div className="highlight-box" style={{ marginTop: '1rem' }}>
+              <p style={{ margin: 0 }}>
+                收益最大的交集是真实工作环境和真实项目。像匠人学院这类多人协作项目里的 PR、
+                Code Review 和 Git 工作流，比教程式个人项目更能沉淀可复述的工程故事。
+              </p>
+            </div>
           </div>
 
           <div className="glass-panel">
@@ -42,6 +48,12 @@ export default function CognitiveBiases() {
             <div className="icon-wrapper" style={{ marginBottom: '1rem', width: '40px', height: '40px' }}><ShieldAlert size={20} /></div>
             <h4>4. Worker vs Engineer</h4>
             <p style={{ fontSize: '0.95rem' }}>Worker思维（学生/nerd）：罗列所有配置和技术以展示能力。<br/>Engineer思维：强调<strong>取舍</strong>以及选择某种方案的<strong>逻辑与原因</strong>。</p>
+            <div className="highlight-box" style={{ marginTop: '1rem' }}>
+              <p style={{ margin: 0, fontSize: '0.95rem' }}>
+                在匠人学院 P3 这类实战项目中，可以把每个 ticket 的方案选择和理由写进 PR message，
+                再借助老师的 Code Review 快速验证自己的工程判断。
+              </p>
+            </div>
           </div>
 
           <div className="glass-panel" style={{ padding: '1.5rem' }}>

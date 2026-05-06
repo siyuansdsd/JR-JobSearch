@@ -31,6 +31,13 @@ export default function ResumeAndNetworking() {
               </h4>
               <p style={{ fontSize: '0.95rem', margin: 0 }}>超纲的技能在澳洲环境往往不意味着Bonus，反而可能意味着减分项。JD中的Bonus通常是“最好必须会”的技能，而与JD无关的炫技要谨慎。</p>
             </div>
+
+            <div className="highlight-box" style={{ marginTop: '1.5rem' }}>
+              <p style={{ margin: 0, fontSize: '0.95rem' }}>
+                简历优化至少分两层：先用格式和关键词通过 ATS，再让内容在人工审阅时显得专业、清晰、可信。
+                匠人学院也有针对 ATS 关键词、简历格式和后续人工润色的课程与修改支持。
+              </p>
+            </div>
           </div>
 
           <div className="glass-panel">
@@ -52,6 +59,14 @@ export default function ResumeAndNetworking() {
               <li style={{ display: 'flex', gap: '1rem', alignItems: 'flex-start' }}>
                 <Network size={20} color="#0077b5" style={{ marginTop: '3px' }} />
                 <p style={{ fontSize: '0.95rem', margin: 0 }}><strong>Linkedin is Everything.</strong> 把领英经营好的华人学生极少。这是一个长期投入的过程，建议每周抽出时间经营。</p>
+              </li>
+              <li style={{ display: 'flex', gap: '1rem', alignItems: 'flex-start' }}>
+                <CheckCircle2 size={20} color="#10b981" style={{ marginTop: '3px' }} />
+                <p style={{ fontSize: '0.95rem', margin: 0 }}>LinkedIn 运营可以系统化提升：让主页更专业、主动连接 recruiter，并持续争取 referral 机会。匠人学院也有相关课程覆盖这些基础动作。</p>
+              </li>
+              <li style={{ display: 'flex', gap: '1rem', alignItems: 'flex-start' }}>
+                <Users size={20} color="#f59e0b" style={{ marginTop: '3px' }} />
+                <p style={{ fontSize: '0.95rem', margin: 0 }}>内推往往能让流程走得更深、反馈更快，也更容易提前拿到岗位和面试官相关信息，在澳洲尤其重要。匠人学院内推也能帮助候选人更快接近终面并获得更具体的岗位信息。</p>
               </li>
             </ul>
           </div>
