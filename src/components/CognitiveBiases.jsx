@@ -34,6 +34,12 @@ export default function CognitiveBiases() {
             <div className="highlight-box">
               <p style={{ margin: 0 }}>在面试时，应采取最有效的方法让面试官保留<strong>积极印象</strong>，而非单纯追求让自己满意的真实表达。</p>
             </div>
+            <div className="highlight-box" style={{ marginTop: '1rem' }}>
+              <p style={{ margin: 0 }}>
+                真实面试里很难直接获得面试官的真实反馈。匠人学院的模拟面试和复盘，
+                可以帮助我们收集反馈，并持续迭代更有效的面试话术和表达策略。
+              </p>
+            </div>
           </div>
         </div>
 
